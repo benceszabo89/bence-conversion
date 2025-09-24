@@ -1,0 +1,4 @@
+echo "Conversion functions needed:"
+echo "- Dollars to Cents"
+echo "- Gallons to Liters"
+echo "- Hours to Minutes"
